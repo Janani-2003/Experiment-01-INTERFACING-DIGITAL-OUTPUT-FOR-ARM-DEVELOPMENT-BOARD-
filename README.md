@@ -79,8 +79,9 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-### Developed by : JANANI R
-### Register number : 212221230039
+
+#### Name : JANANI R
+#### Reg no : 212221230039
 
 ```
 #include "main.h"
@@ -171,7 +172,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### LED OFF CONDITION:
 ![WhatsApp Image 2023-03-22 at 19 51 59](https://user-images.githubusercontent.com/94288340/227260340-75aef48f-f3e1-40f8-ad12-40896247867d.jpeg)
 
-###LED ON CONDITION:
+### LED ON CONDITION:
 ![WhatsApp Image 2023-03-23 at 20 57 23](https://user-images.githubusercontent.com/94288340/227260547-6e563a66-549a-48a4-8304-64ad47acbd60.jpeg)
 
  
